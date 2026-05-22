@@ -28,3 +28,20 @@ Data required: Synthetic data for a company size of 1500 associates with 150 par
 (Employee #, Name, Vehicle details, contact number, parking required, Open for carpooling, 
 preferred carpooling spot, Monthly learning points). 
 Assumption - 25% of employees needs car parking space.
+App Requirements: Must Have features.
+1) Login requirements (all the above data to be collected from the registration details).
+2) 2 different views – One for the user and one for the admin to update the daily 
+parking available spaces.
+3) 100 parking spaces for designated associates from projects. 50 parking spaces based 
+on the top 50 learning points improved associate.
+4) Once employee’s login, app should show the available and utilized parking slots with 
+employee details. Should show any unauthorized parking.
+5) All parking spaces to be opened to all associates after 11 AM.
+6) Once Parked, associates need to update in the app that they are parked. Vice versa 
+when they leave.
+7) Auto generated pass for Priority parking (top learners) 
+Good to have Features (Upcoming):
+1) Carpooling Feature.
+2) Auto updated parking slots availability based on visual intelligence.
+3) GPS Enabled feature indicating if the parking slots are available when the car is in the 
+vicinity of the office.
